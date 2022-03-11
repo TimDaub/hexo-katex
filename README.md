@@ -1,6 +1,6 @@
 # hexo-katex
 
-Use KaTeX to display math in Hexo sites.
+Use KaTeX to display math in Hexo sites. Originally by https://github.com/thcode/hexo-katex.
 
 ## Installing
 
@@ -14,7 +14,7 @@ pandoc:
 Then install hexo-katex.
 
 ```
-npm install hexo-katex --save
+npm install TimDaub/hexo-katex --save
 ```
 
 KaTeX css link will be automatically injected into post, if you want to add it manually, modify `_config.yml`.
