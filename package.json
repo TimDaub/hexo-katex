@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      "hexo-katex@0.0.13",
+      "/Users/linkeex/Projects/blog"
+    ]
+  ],
+  "_from": "hexo-katex@0.0.13",
+  "_id": "hexo-katex@0.0.13",
+  "_inBundle": false,
+  "_integrity": "sha512-VYTIkjpQ9E2YcB6QSIK0M504sEA1BVbdH306RtO75S+wn+VEh0NS+vV5aqSJHSUX9DYEV0ew5hQYqVWx7Muwtg==",
+  "_location": "/hexo-katex",
+  "_phantomChildren": {
+    "bluebird": "3.7.2",
+    "highlight.js": "9.17.1",
+    "html-entities": "1.2.1",
+    "isexe": "2.0.0",
+    "lru-cache": "4.1.5",
+    "upper-case": "1.1.3"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "hexo-katex@0.0.13",
+    "name": "hexo-katex",
+    "escapedName": "hexo-katex",
+    "rawSpec": "0.0.13",
+    "saveSpec": null,
+    "fetchSpec": "0.0.13"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-katex/-/hexo-katex-0.0.13.tgz",
+  "_spec": "0.0.13",
+  "_where": "/Users/linkeex/Projects/blog",
+  "author": {
+    "name": "Shuyu Liang",
+    "email": "thinkingene@gmail.com",
+    "url": "http://thcode.com"
+  },
+  "bugs": {
+    "url": "https://github.com/thcode/hexo-katex/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "hexo-util": "^0.6.0",
+    "katex": "^0.10.1"
+  },
+  "description": "Use KaTeX to display math in Hexo sites.",
+  "homepage": "https://github.com/thcode/hexo-katex#readme",
+  "keywords": [
+    "hexo",
+    "katex",
+    "filter"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/thcode/hexo-katex/master/LICENSE"
+  },
+  "main": "index",
+  "name": "hexo-katex",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thcode/hexo-katex.git"
+  },
+  "version": "0.0.13"
+}
