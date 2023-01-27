@@ -1,3 +1,4 @@
+# Deprecation: 2023-01-27: I stopped using hexo and so this package isn't further maintained. Feel free to fork it and maintain by yourself considering the license.
 # hexo-katex
 
 Use KaTeX to display math in Hexo sites. Originally by https://github.com/thcode/hexo-katex.
